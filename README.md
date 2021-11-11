@@ -5,11 +5,6 @@ Nah, just kidding,
 
 ## I am a student, a nerd and a tech enthusiast.
 
-<style>
-  table, tr, td {
-    border: none;
-  }  
-</style>
 
 <table>
   <tr>
@@ -36,6 +31,6 @@ Nah, just kidding,
     <td> <img src="./java.png"></td>
     <td> <img src="./js.png"></td>
     <td> <img src="./python.png"></td>
-
+    <td> <img src="./Flutter.png"></td>
   </tr>
 </table>
