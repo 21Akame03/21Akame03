@@ -7,16 +7,14 @@ Nah, just kidding,
 
 <table>
   <tr>
-    <td> ⚡ Just as in my status, i'm bored 24/7;</td>
-    <td> <img src="./Freepik_illustration.png" width="270" height="480"</td>
+    <td> 
+      <ul>
+        <li> ⚡ Just as in my status, i'm bored 24/7; </li>
+        <li> 💻 DSA is killing me;</li>
+        <li> 🤓 I'm a nerd</li>
+        <li> 😂 I also have a weird sense of humour</li>
+      </ul>
+    </td>
+    <td> <img src="./Freepik_illustration.png"</td>
   </tr>
  </table>
-
-
-:-------------------------:|:-------------------------:
-- ⚡ Just as in my status, i'm bored 24/7; | ![alt image](./Freepik_illustration.png)
-- 💻 DSA is killing me; | 
-- 🤓 I'm a nerd |
-- 😂 I also have a weird sense of humour |
-
-
