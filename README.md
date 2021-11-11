@@ -5,7 +5,7 @@ Nah, just kidding,
 
 ## I am a student, a nerd and a tech enthusiast.
 
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
     <td> 
       <ul>
