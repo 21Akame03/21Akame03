@@ -33,6 +33,6 @@ Nah, just kidding,
     <td> <img src="./python.png"></td>
   </tr>
   <tr>
-    <td> <img src="./Flutter.png" width="50"></td>
+    <td> <img src="./Flutter.png" width="100"></td>
   </tr>
 </table>
