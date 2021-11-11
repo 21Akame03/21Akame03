@@ -1,19 +1,21 @@
 ![alt image](./github.png)
 
-# I am an Alien.
+# First of all: I'm an Alien! 👽
 Nah, just kidding,
 
-## I am a student, a nerd and a tech enthusiast.
-
+## I am just a student, a nerd and a tech enthusiast. 😎
+I believe that "Tech otakus save the world". (credit: miHoYo Co., Ltd)
+or maybe destroy it, hard to guess!; then we will see.
 
 <table>
   <tr>
     <td> 
       <ul>
-        <li> ⚡ Just as in my status, i'm bored 24/7; </li>
+        <li> ⚡ Just as in my status, I'm bored 24/7; </li>
         <li> 💻 DSA is killing me;</li>
-        <li> 🤓 I'm a nerd</li>
-        <li> 😂 I also have a weird sense of humour</li>
+        <li> 🤓 I'm a nerd;</li>
+        <li> 😂 I also have a weird sense of humour;</li>
+        <li> ❌ Roses are red, Violets are blue, this line does not have a semi-colon</li>
       </ul>
     </td>
     <td> <img src="./Freepik_illustration.png" width="600"</td>
