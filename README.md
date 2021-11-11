@@ -27,4 +27,15 @@ Nah, just kidding,
 
 
 ## Technologies
-![alt image](./c-.png) | ![alt image](./css-3.png) | ![alt image](./go-lang.png) | ![alt image](./html-coding.png) | ![alt image](./java.png) | ![alt image](./js (1).png) | ![alt image](./python.png)
+<table>
+  <tr>
+    <td> <img src="./c-.png"></td>
+    <td> <img src="./css-3.png"></td>
+    <td> <img src="./go-lang.png"></td>
+    <td> <img src="./html-coding.png"></td>
+    <td> <img src="./java.png"></td>
+    <td> <img src="./js.png"></td>
+    <td> <img src="./python.png"></td>
+
+  </tr>
+</table>
