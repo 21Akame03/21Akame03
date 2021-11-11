@@ -27,11 +27,4 @@ Nah, just kidding,
 
 
 ## Technologies
-![alt image](./c-.png)
-![alt image](./css-3.png)
-![alt image](./go-lang.png)
-![alt image](./html-coding.png)
-![alt image](./java.png)
-![alt image](./js (1).png)
-![alt image](./python.png)
-
+![alt image](./c-.png) | ![alt image](./css-3.png) | ![alt image](./go-lang.png) | ![alt image](./html-coding.png) | ![alt image](./java.png) | ![alt image](./js (1).png) | ![alt image](./python.png)
