@@ -5,7 +5,13 @@ Nah, just kidding,
 
 ## I am a student, a nerd and a tech enthusiast.
 
-<table style="border: none;">
+<style>
+  table, tr, td {
+    border: none;
+  }  
+</style>
+
+<table>
   <tr>
     <td> 
       <ul>
