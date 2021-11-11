@@ -31,6 +31,6 @@ Nah, just kidding,
     <td> <img src="./java.png"></td>
     <td> <img src="./js.png"></td>
     <td> <img src="./python.png"></td>
-    <td> <img src="./Flutter.png"></td>
+    <td> <img src="./Flutter.png" width="50"></td>
   </tr>
 </table>
