@@ -15,6 +15,6 @@ Nah, just kidding,
         <li> 😂 I also have a weird sense of humour</li>
       </ul>
     </td>
-    <td> <img src="./Freepik_illustration.png" width="300"</td>
+    <td> <img src="./Freepik_illustration.png" width="600"</td>
   </tr>
  </table>
