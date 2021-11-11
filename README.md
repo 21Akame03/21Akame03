@@ -5,7 +5,7 @@ Nah, just kidding,
 
 ## I am a student, a nerd and a tech enthusiast.
 
-<table cellspacing="0" cellpadding="0">
+<table style="border: none;">
   <tr>
     <td> 
       <ul>
@@ -15,6 +15,6 @@ Nah, just kidding,
         <li> 😂 I also have a weird sense of humour</li>
       </ul>
     </td>
-    <td> <img src="./Freepik_illustration.png"</td>
+    <td style="width: 60%;"> <img src="./Freepik_illustration.png"</td>
   </tr>
  </table>
