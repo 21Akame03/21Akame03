@@ -15,7 +15,7 @@ or maybe destroy it, hard to guess!; then we will see.
         <li> 💻 DSA is killing me;</li>
         <li> 🤓 I'm a nerd;</li>
         <li> 😂 I also have a weird sense of humour;</li>
-        <li> ❌ Roses are red, Violets are blue, this line does not have a semi-colon</li>
+        <li> ❌ Roses are red, Violets are blue, ';' expected, Insert a semicolon at the end</li>
       </ul>
     </td>
     <td> <img src="./Freepik_illustration.png" width="600"</td>
