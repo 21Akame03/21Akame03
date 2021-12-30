@@ -5,7 +5,7 @@ Nah, just kidding,
 
 ## I am just a student, a nerd and a tech enthusiast. 😎
 I believe that "Tech otakus save the world". (credit: miHoYo Co., Ltd)
-or maybe destroy it, hard to guess!; then we will see.
+or maybe destroy it, hard to guess!;
 
 <table>
   <tr>
