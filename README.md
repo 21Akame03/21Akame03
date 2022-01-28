@@ -32,8 +32,6 @@ or maybe destroy it, hard to guess!;
     <td> <img src="./java.png"></td>
     <td> <img src="./js.png"></td>
     <td> <img src="./python.png"></td>
-    <td> <img src="./rust.png"></td>
-
   </tr>
   <tr>
     <td> <img src="./Flutter.png" width="100"></td>
