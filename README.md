@@ -25,15 +25,11 @@ or maybe destroy it, hard to guess!;
 ## Technologies
 <table>
   <tr>
-    <td> <img src="./c-.png"></td>
-    <td> <img src="./css-3.png"></td>
-    <td> <img src="./go-lang.png"></td>
     <td> <img src="./html-coding.png"></td>
-    <td> <img src="./java.png"></td>
+    <td> <img src="./css-3.png"></td>
     <td> <img src="./js.png"></td>
+    <td> <img src="./go-lang.png"></td>
     <td> <img src="./python.png"></td>
-  </tr>
-  <tr>
     <td> <img src="./Flutter.png" width="100"></td>
     <td> <img src="./Rust.png" width="100"></td>
   </tr>
