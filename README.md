@@ -35,5 +35,6 @@ or maybe destroy it, hard to guess!;
   </tr>
   <tr>
     <td> <img src="./Flutter.png" width="100"></td>
+    <td> <img src="./rust.png" width="100"></td>
   </tr>
 </table>
