@@ -2,9 +2,7 @@
 
 # "A program is the result of finding a solution to a problem, not knowing the solution."
 
-## I am just a student, a nerd and a tech enthusiast. 😎
-I believe that "Tech otakus save the world". (credit: miHoYo Co. Ltd)
-or maybe destroy it, hard to guess!;
+## Just a Student and tech enthusiast.
 
 <table>
   <tr>
