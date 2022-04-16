@@ -9,10 +9,10 @@
     <td> 
       <ul>
         <li> ⚡ Just as in my status, I'm bored 24/7; </li>
-        <li> 💻 DSA is killing me;</li>
-        <li> 🤓 I'm a nerd;</li>
-        <li> 😂 I also have a weird sense of humour;</li>
-        <li> ❌ Roses are red, Violets are blue, ';' expected, Insert a semicolon at the end</li>
+        <li> 💻 DSA is hard;</li>
+        <li> 😂 !False, funny cause its True;</li>
+        <li> ☕ Aspiring to become a machine that converts cofee into code;</li>
+        <li> ❌ Roses are red, Violets are blue, ';' expected on line 19;</li>
       </ul>
     </td>
     <td> <img src="./Freepik_illustration.png" width="600"</td>
