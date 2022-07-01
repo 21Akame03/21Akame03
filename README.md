@@ -11,7 +11,7 @@
         <li> ⚡ Just as in my status, I'm bored 24/7; </li>
         <li> 💻 DSA is hard;</li>
         <li> 😂 !False, funny cause its True;</li>
-        <li> ☕ Aspiring to become a machine that converts cofee into code;</li>
+        <li> ☕ Aspiring to become a machine that converts coffee into code;</li>
         <li> ❌ Roses are red, Violets are blue, ';' expected on line 19;</li>
       </ul>
     </td>
