@@ -1,6 +1,6 @@
 ![alt image](./github.png)
 
-# "A program is the result of finding a solution to a problem, not knowing the solution."
+# "A Solution is the result of finding a solution to a problem, not knowing the solution."
 
 ## Just a Student and tech enthusiast.
 
