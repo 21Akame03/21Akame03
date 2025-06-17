@@ -13,7 +13,6 @@
         <li> ❌ Roses are red, Violets are blue, ';' expected on line 19;</li>
       </ul>
     </td>
-    <td> <img src="./Freepik_illustration.png" width="600"</td>
   </tr>
  </table>
 
